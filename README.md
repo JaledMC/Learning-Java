@@ -3,14 +3,14 @@ Some Java newbie exercises from Udacity Java course, to open the mind and do som
 
 
 
-[Books](https://github.com/JaledMC/Learning-Java/tree/master/Books):
-[Chess](https://github.com/JaledMC/Learning-Java/tree/master/Chess):
-[DiceGame](https://github.com/JaledMC/Learning-Java/tree/master/DiceGame):
-[GuessMovie](https://github.com/JaledMC/Learning-Java/tree/master/GuessMovie):
-[HelloWorld](https://github.com/JaledMC/Learning-Java/tree/master/HelloWorld):
-[Car](https://github.com/JaledMC/Learning-Java/tree/master/car):
-[Notebook](https://github.com/JaledMC/Learning-Java/tree/master/notebook):
-[SpaceX](https://github.com/JaledMC/Learning-Java/tree/master/SpaceX): 
+[Books](https://github.com/JaledMC/Learning-Java/tree/master/Books):  
+[Chess](https://github.com/JaledMC/Learning-Java/tree/master/Chess):  
+[DiceGame](https://github.com/JaledMC/Learning-Java/tree/master/DiceGame):  
+[GuessMovie](https://github.com/JaledMC/Learning-Java/tree/master/GuessMovie):  
+[HelloWorld](https://github.com/JaledMC/Learning-Java/tree/master/HelloWorld):  
+[Car](https://github.com/JaledMC/Learning-Java/tree/master/car):  
+[Notebook](https://github.com/JaledMC/Learning-Java/tree/master/notebook):  
+[SpaceX](https://github.com/JaledMC/Learning-Java/tree/master/SpaceX):   
 The mission is to send a list of items (Habitats, bunkers, food supplies, and rovers) to Mars, but we need to run some simulations first to pick the correct fleet of rockets.
 
 We've already designed 2 rocket prototypes, but we need your help to design and run some simulations to help us decide which type to use.
