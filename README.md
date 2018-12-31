@@ -4,7 +4,7 @@
 ## Course exercises
 Some Java newbie exercises from Udacity [**Java Programming Basics**](https://mena.udacity.com/course/java-programming-basics--ud282) and [**Object Oriented Programming in Java**](https://eu.udacity.com/course/object-oriented-programming-in-java--ud283), to open the mind and do some OOP code. Both are very good courses with very good teachers, and **FREE!**. All code and descriptions come fom their exercises and I don't claim any authorship.
 
-### [HelloWorld](https://github.com/JaledMC/Learning-Java/tree/master/HelloWorld):
+### [HelloWorld](https://github.com/JaledMC/Learning-Java/tree/master/HelloWorld): 
 This project doesn't need any explanation.
 
 ### [Car](https://github.com/JaledMC/Learning-Java/tree/master/car): 
@@ -33,3 +33,8 @@ The U-1 Rocket modle is light weight, agile and pretty safe, but can only carry 
 The U2 Rocket model is heavier than the U-1 but much safer and can carry a lot more cargo; to a total of 29 tonnes. However, it costs $120 Million to build and weighs 18 tonnes. It has a greater chance of crashing while landing than while launching, but just like the U-1 both chances depend on the amount of cargo carried.  
 
 The mission consists of 2 phases: the phase 1 is meant to send building equipment and construction material to help build the colony, saved in a text file that contains the list of all items with their weight, Phase-1.txt. The phase 2 is meant to send the colony of humans along with some food resources, and, as the phase 1, has a file Phase-1.txt for it.
+
+
+# To read  
+[How to fix your Java learning: a story of one tutor](https://hackernoon.com/how-to-fix-your-java-learning-a-story-of-one-tutor-1bcac1e152f1)  
+[Interview Question: Reversing an Immutable List in Java](https://hackernoon.com/interview-question-reversing-an-immutable-list-in-java-57a891a521c5  )  
